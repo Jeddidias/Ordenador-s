@@ -1,0 +1,13 @@
+E:\software\Ordenador de numeros\Ordenador de numeros\bin\Debug\netcoreapp3.1\Ordenador de numeros.exe
+E:\software\Ordenador de numeros\Ordenador de numeros\bin\Debug\netcoreapp3.1\Ordenador de numeros.deps.json
+E:\software\Ordenador de numeros\Ordenador de numeros\bin\Debug\netcoreapp3.1\Ordenador de numeros.runtimeconfig.json
+E:\software\Ordenador de numeros\Ordenador de numeros\bin\Debug\netcoreapp3.1\Ordenador de numeros.runtimeconfig.dev.json
+E:\software\Ordenador de numeros\Ordenador de numeros\bin\Debug\netcoreapp3.1\Ordenador de numeros.dll
+E:\software\Ordenador de numeros\Ordenador de numeros\bin\Debug\netcoreapp3.1\Ordenador de numeros.pdb
+E:\software\Ordenador de numeros\Ordenador de numeros\obj\Debug\netcoreapp3.1\Ordenador de numeros.csproj.AssemblyReference.cache
+E:\software\Ordenador de numeros\Ordenador de numeros\obj\Debug\netcoreapp3.1\Ordenador de numeros.AssemblyInfoInputs.cache
+E:\software\Ordenador de numeros\Ordenador de numeros\obj\Debug\netcoreapp3.1\Ordenador de numeros.AssemblyInfo.cs
+E:\software\Ordenador de numeros\Ordenador de numeros\obj\Debug\netcoreapp3.1\Ordenador de numeros.csproj.CoreCompileInputs.cache
+E:\software\Ordenador de numeros\Ordenador de numeros\obj\Debug\netcoreapp3.1\Ordenador de numeros.dll
+E:\software\Ordenador de numeros\Ordenador de numeros\obj\Debug\netcoreapp3.1\Ordenador de numeros.pdb
+E:\software\Ordenador de numeros\Ordenador de numeros\obj\Debug\netcoreapp3.1\Ordenador de numeros.genruntimeconfig.cache
